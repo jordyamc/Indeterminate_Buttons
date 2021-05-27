@@ -1,0 +1,3 @@
+rootProject.name = "Indeterminate Buttons"
+include ':app'
+include ':library'
